@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+horus_out/
+*.las
+*.laz
+data/cache/
+data/nls/
+nls_key.txt
+.nls_key
+data/uploads/
+data/costs.json

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-24T08:49:56.317124+00:00",
+  "seed": 20260901,
+  "planningPeriod": {
+    "start": "2026-09-01",
+    "end": "2026-10-31",
+    "weekdays": 44
+  },
+  "flightTaskCount": 1000,
+  "totalHectares": 181709,
+  "averageTaskHectares": 181.71,
+  "lidarOnlyTaskCount": 700,
+  "multispectralTaskCount": 300,
+  "multispectralTaskShare": 0.3,
+  "priorityCounts": {
+    "high": 234,
+    "medium": 493,
+    "low": 273
+  },
+  "operatorCount": 33,
+  "multispectralOperatorCount": 10,
+  "targetHectaresPerFullDay": 150.0,
+  "totalCapacityHectaresAtTargetRate": 188166.7,
+  "multispectralCapacityHectaresAtTargetRate": 56866.7,
+  "expectedAvailabilityFactor": 0.8556
+}

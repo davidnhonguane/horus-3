@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"kohdeluokka": 22312, "jannite": 20000}, "geometry": {"type": "LineString", "coordinates": [[27.251692291885433, 62.74796532036372], [27.25571834229415, 62.7476955242546], [27.261119141622913, 62.74702103398181], [27.267403708114564, 62.746166679636275]]}}], "links": []}

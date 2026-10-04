@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:FeatureCollection xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:BsWfs="http://xml.fmi.fi/schema/wfs/2.0" xmlns:gml="http://www.opengis.net/gml/3.2">
+<wfs:member><BsWfs:BsWfsElement gml:id="e0"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>t2m</BsWfs:ParameterName><BsWfs:ParameterValue>7.4</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+<wfs:member><BsWfs:BsWfsElement gml:id="e1"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>rh</BsWfs:ParameterName><BsWfs:ParameterValue>81</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+<wfs:member><BsWfs:BsWfsElement gml:id="e2"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>ws_10min</BsWfs:ParameterName><BsWfs:ParameterValue>6.2</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+<wfs:member><BsWfs:BsWfsElement gml:id="e3"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>wg_10min</BsWfs:ParameterName><BsWfs:ParameterValue>11.8</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+<wfs:member><BsWfs:BsWfsElement gml:id="e4"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>wd_10min</BsWfs:ParameterName><BsWfs:ParameterValue>230</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+<wfs:member><BsWfs:BsWfsElement gml:id="e5"><BsWfs:Location><gml:Point><gml:pos>62.8920 27.6340 </gml:pos></gml:Point></BsWfs:Location>
+<BsWfs:Time>2026-10-03T10:00:00Z</BsWfs:Time><BsWfs:ParameterName>r_1h</BsWfs:ParameterName><BsWfs:ParameterValue>0.2</BsWfs:ParameterValue></BsWfs:BsWfsElement></wfs:member>
+</wfs:FeatureCollection>

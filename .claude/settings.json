@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(py *)",
+      "Bash(pip *)",
+      "Bash(pip3 *)",
+      "Bash(.venv/bin/python *)",
+      "Bash(.venv/bin/pip *)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(. .venv/bin/activate)",
+      "Bash(./run.sh *)",
+      "Bash(sh run.sh *)",
+      "Bash(curl -s http://localhost:*)",
+      "Bash(curl http://localhost:*)",
+      "PowerShell(python *)",
+      "PowerShell(py *)",
+      "PowerShell(pip *)",
+      "PowerShell(.venv\\Scripts\\python *)",
+      "PowerShell(.venv\\Scripts\\pip *)",
+      "PowerShell(.venv\\Scripts\\Activate.ps1)",
+      "PowerShell(.\\.venv\\Scripts\\Activate.ps1)",
+      "PowerShell(.\\run.bat *)",
+      "PowerShell(Invoke-WebRequest http://localhost:*)",
+      "PowerShell(curl http://localhost:*)"
+    ]
+  }
+}
